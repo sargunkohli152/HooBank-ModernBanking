@@ -8,10 +8,10 @@ You can access the live demo of the website [here](https://65c7f36e5afb41b09750e
 
 ## Screenshots
 
-![Website Screenshot](/src/ssNumber1.png)
-![Website Screenshot](/src/ssNumber2.png)
-![Website Screenshot](/src/ssNumber3.png)
-![Website Screenshot](/src/ssNumber4.png)
+![Website Screenshot](/src/assets/ssNumber1.png)
+![Website Screenshot](/src/assets/ssNumber2.png)
+![Website Screenshot](/src/assets/ssNumber3.png)
+![Website Screenshot](/src/assets/ssNumber4.png)
 
 ## Features
 
